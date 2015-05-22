@@ -1,3 +1,0 @@
-#' TRAM
-#' 
-#' @export 
